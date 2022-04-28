@@ -1,0 +1,40 @@
+#root {
+  background-image: 
+  url(
+"./img/henrique-setim-XuD9vHw6yeY-unsplash.jpg");
+  
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: -250px;
+}
+
+
+.move_main_content {
+  margin-top: 300px;
+  height: 100%;
+  width: 100%;
+}
+
+.sample_div {
+  height: 240px;
+  background-image: 
+  url(
+"./img/henrique-setim-XuD9vHw6yeY-unsplash.jpg");
+}
+
+/*
+
+.content_size {
+  height: 100%;
+  width: 100%;
+}
+
+.move_chrono {
+  margin-top: 500px;
+}
+*/
